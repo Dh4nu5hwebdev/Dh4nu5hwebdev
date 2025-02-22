@@ -1,16 +1,26 @@
-## Hi there 👋
+ 👋 Hi, I'm V. Dhanush!  
 
-<!--
-**Dh4nu5hwebdev/Dh4nu5hwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 About Me  
+🎓 I am currently studying at **BV Raju Institute of Technology, Narsapur**.  
+💡 I am passionate about **Cyber Security, Web Development, AI/ML, and Ethical Hacking**.  
 
-Here are some ideas to get you started:
+🚀 What I'm Learning  
+- 🔹 **Flutter** (App Development)  
+- 🔹 **Python Models** (Creating & Fine-tuning AI models)  
+- 🔹 **Java Programming**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I'm Working On  
+- 💻 **Building a Solo Leveling-themed To-Do app using Flutter**  
+- 🛠️ Exploring AI-powered projects and automation  
+
+🤝 Looking to Collaborate  
+I’m open to collaborating on exciting **Flutter projects** and AI-based applications!  
+
+ 📬 How to Reach Me  
+📧 Email: [24215a0505@gmail.com](mailto:24215a0505@gmail.com)  
+
+🌟 Fun Fact  
+I love experimenting with **AI and Cyber Security** while also working on cool **anime-themed apps**!  
+
+---
+
