@@ -31,9 +31,12 @@ Currently working with <b>Go, React, and Node.js</b>, and actively preparing for
   <a href="mailto:24215a0505@bvrit.ac.in">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/vanarasa-dhanush-4b1724268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/vanarasa-dhanush-4b1724268/"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 <hr/>
