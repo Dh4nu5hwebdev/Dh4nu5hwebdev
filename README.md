@@ -1,4 +1,3 @@
-
 <h1 align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dh4nu5hwebdev.Dh4nu5hwebdev" />
 
@@ -74,31 +73,33 @@ Currently working with <b>Go, React, and Node.js</b>, and actively preparing for
 
 
 ---
-
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dh4nu5hwebdev&theme=dark&hide_border=false" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Dh4nu5hwebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Dh4nu5hwebdev&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dh4nu5hwebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dh4nu5hwebdev&theme=dark&hide_border=false" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dh4nu5hwebdev&theme=dark&hide_border=false&layout=compact" />
-</p>
 
+</div>
+
+<div align="center">
+  <p style="font-size: 14px; color: #9ca3af;">
+    Building in public · Learning through real-world problems · Aiming for long-term impact
+  </p>
+</div>
 
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dh4nu5hwebdev&icon=0&color=0)](https://visitcount.itsvg.in)
----
-<br>
-<br>
-<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=1100&section=footer"/>
+</div>
+
+
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
