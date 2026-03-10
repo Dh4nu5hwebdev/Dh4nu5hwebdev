@@ -86,9 +86,12 @@ Currently expanding my contributions while preparing for Google Summer of Code 2
 ---
 <div align="center">
 
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dh4nu5hwebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Dh4nu5hwebdev&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dh4nu5hwebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dh4nu5hwebdev&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dh4nu5hwebdev&theme=dark)
 
 
 
@@ -96,7 +99,7 @@ Currently expanding my contributions while preparing for Google Summer of Code 2
 
 <div align="center">
   <p style="font-size: 14px; color: #9ca3af;">
-    Building in public · Learning through real-world problems · Aiming for long-term impact
+    Building in public · Want to Learn by both building and breaking · Aiming for long-term impact
   </p>
 </div>
 
