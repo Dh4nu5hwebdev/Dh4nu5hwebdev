@@ -58,14 +58,14 @@ Currently expanding open-source contributions while preparing for <b>Google Summ
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  <br> <br>
 </div>
 
-### 🔐 Cyber Security Learning Journey
+### 🛡️ Security Practice
 
-- Actively participating in CTFs and hackathons to strengthen practical security skills and collaborative problem solving
-- Practicing security concepts daily through TryHackMe labs and challenges
+- Actively participating in **CTFs and hackathons** to strengthen practical security skills
+- Practicing security labs daily on **TryHackMe**
 - Exploring:
   - Network reconnaissance and enumeration (Nmap)
-  - Web security fundamentals using Burp Suite
-  - Malware analysis and secure systems concepts
+  - Web security fundamentals with Burp Suite
+  - Malware analysis and secure systems
 
 ### 🧠 Problem Solving & DSA
 
