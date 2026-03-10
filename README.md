@@ -20,16 +20,17 @@
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
 
 <p align="center">
-I am a computer science undergraduate focused on learning by <b>building real projects</b> and <b>contributing to open source</b>.
-<br/>
-Cyber Security focused developer working with Go, Python, and Java.
+<b>Driven by curiosity, guided by security, and always building.</b> <br>
 
-Open-source contributor to Jenkins, Gitea documentation.
+Computer Science undergraduate focused on learning by <b>building real projects</b> and <b>contributing to open source</b>.
 
-Exploring malware analysis, secure systems, and the path toward application security.
+Cyber Security focused developer working with <b>Go, Python, and Java</b>.
 
-Currently expanding my contributions while preparing for Google Summer of Code 2026.
-<br/>
+Open-source contributor to <b>Jenkins</b> and <b>Gitea</b> documentation.
+
+Exploring <b>malware analysis, secure systems</b>, and the path toward <b>application security</b>.
+
+Currently expanding open-source contributions while preparing for <b>Google Summer of Code 2026</b>.
 
 </p>
 
@@ -57,29 +58,31 @@ Currently expanding my contributions while preparing for Google Summer of Code 2
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  <br> <br>
 </div>
 
+### 🔐 Cyber Security Learning Journey
 
-## 🚀 Open Source & Projects
+- Actively participating in CTFs and hackathons to strengthen practical security skills and collaborative problem solving
+- Practicing security concepts daily through TryHackMe labs and challenges
+- Exploring:
+  - Network reconnaissance and enumeration (Nmap)
+  - Web security fundamentals using Burp Suite
+  - Malware analysis and secure systems concepts
 
-### 🛠️ Open Source Contributor — Neutralinojs
-- Fixed an issue where query parameters were dropped in `Neutralino.window.create`
-- Submitted PR **#1506**, linked to issue **#1480**
-- Worked with:
-  - C++ codebase
-  - Internal HTTP routing
-  - URL handling logic
+### 🧠 Problem Solving & DSA
+
+- Strengthening problem-solving skills through Data Structures and Algorithms
+- Currently focusing on:
+  - Arrays
+  - Moving next to Sliding Window techniques
+
+
 
 ### 🔧 Backend Development (Go)
-- Learning Go fundamentals through hands-on coding and debugging
+- Learning Go fundamentals right now through hands-on coding and debugging
 - Exploring:
   - Server-side logic
   - API design
   - Clean code practices
 
-### 🌐 Frontend Development (React)
-- Building UI components using modern React workflows
-- Focused on:
-  - Clean state management
-  - Reusable components
 
 
 
